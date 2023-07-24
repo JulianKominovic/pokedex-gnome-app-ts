@@ -4,7 +4,7 @@
   <requires lib="Adw" version="1.0"/>
   <template class="Gjs_Window" parent="AdwApplicationWindow">
     <property name="default-width">600</property>
-    <property name="default-height">300</property>
+    <property name="default-height">400</property>
     <property name="title">Pokedex</property>
     <style>
       <class name="devel"/>
@@ -48,8 +48,9 @@
         <!-- Scrolled pokemons list -->
         <child>
           <object class="GtkScrolledWindow">
-            <property name="height-request">600</property>
+            <property name="height-request">400</property>
             <property name="width-request">400</property>
+            <property name="margin-bottom">24</property>
             <child>
               <object class="AdwClamp">
                 <property name="maximum-size">500</property>

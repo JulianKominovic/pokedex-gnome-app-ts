@@ -11,43 +11,20 @@ const Item = GObject.registerClass(
         InternalChildren: [],
     },
     class Item extends Adw.ActionRow {
-        constructor(params: Partial<Adw.ActionRow.ConstructorProperties>) {
-            super(params);
+        constructor({
+            avatar_url,
+            ...params
+        }: Partial<Adw.ActionRow.ConstructorProperties> & {
+            avatar_url: string;
+        }) {
+            super({ ...params, activatable: true });
 
-            const avatar = new Adw.Avatar();
-            avatar.marginTop = 12;
-            avatar.marginBottom = 12;
-            avatar.size = 56;
-            this.add_prefix(avatar);
-
-            // I need to set avatar images from the resource file
-            // I don't know how to do it
-            // I tried this:
-
-            const texture = Gdk.Texture.new_from_resource(
-                '/com/jkominovic/pokedex/data/icons/hires/001.png'
-            );
-
-            avatar.set_custom_image(texture);
-
-            // Pokemon sprites are located in data/icons/hires but I couldn't find a way to access them
-            // I tried several things but I couldn't find a way to do it
-            // I guess I'm missing some build configuration or something
-
-            // Load the first Pokemon sprite image from the resource file
-            // const spriteResourcePath =
-            //     'com/jkominovic/pokedex/icons/hires/001.png';
-            // const spriteBytes = Gio.resources_lookup_data(
-            //     spriteResourcePath,
-            //     0
-            // );
-            // const spritePixbuf = GdkPixbuf.Pixbuf.new_from_bytes(
-            //     spriteBytes,
-            //     null
-            // );
-
-            // Set the custom image for the avatar
-            // avatar.set_custom_image(spritePixbuf);
+            const imgWidget = new Gtk.Image();
+            imgWidget.marginTop = 12;
+            imgWidget.marginBottom = 12;
+            imgWidget.pixel_size = 64;
+            imgWidget.set_from_resource(avatar_url);
+            this.add_prefix(imgWidget);
         }
     }
 );
@@ -122,14 +99,31 @@ export class Window extends Adw.ApplicationWindow {
          *  - https://docs.gtk.org/glib/struct.Variant.html
          *  - https://docs.gtk.org/glib/struct.VariantType.html
          */
-        this._entry_pokemon_search.connect('changed', (e) => {
-            console.log(e);
+        this._entry_pokemon_search.connect('changed', (...args) => {
+            const entry_text = this._entry_pokemon_search.get_text();
+            this.build_pokemon_list(entry_text);
         });
+    }
 
-        POKEMONS.forEach((pokemon) => {
+    private async build_pokemon_list(filterString: string) {
+        this._pokemon_list.remove_all();
+        const filterWord = filterString.toLocaleLowerCase();
+        const pokemons = filterString
+            ? POKEMONS.filter(
+                  (pokemon) =>
+                      String(pokemon.id)
+                          .toLocaleLowerCase()
+                          .includes(filterWord) ||
+                      pokemon.name.english
+                          .toLocaleLowerCase()
+                          .includes(filterWord)
+              )
+            : POKEMONS;
+        pokemons.slice(0, 10).forEach((pokemon) => {
             const item = new Item({
                 title: pokemon.name.english,
                 subtitle: `${pokemon.id} - ${pokemon.type.join(', ')}`,
+                avatar_url: pokemon.image.sprite,
             });
             this._pokemon_list.append(item);
         });
