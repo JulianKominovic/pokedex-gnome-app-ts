@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=pokedex
+Exec=com.jkominovic.pokedex
+Icon=com.jkominovic.pokedex
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

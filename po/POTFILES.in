@@ -1,0 +1,6 @@
+data/com.jkominovic.pokedex.desktop.in
+data/com.jkominovic.pokedex.appdata.xml.in
+data/com.jkominovic.pokedex.gschema.xml
+data/window.ui
+src/main.ts
+src/window.ts
