@@ -1,3 +1,8 @@
+# Pokedex gnome app
+![image](https://github.com/JulianKominovic/pokedex-ts-template/assets/70329467/2f564997-aeb6-461d-a6aa-8c1d4b349020)
+![image](https://github.com/JulianKominovic/pokedex-ts-template/assets/70329467/832d0cf2-0f2d-462b-8e8d-8fcc562b9af2)
+
+
 # GNOME Typescript Template
 
 A template that provides the basic foundations for GNOME applications written in Typescript.
