@@ -3,17 +3,18 @@
   <requires lib="gtk" version="4.0"/>
   <requires lib="Adw" version="1.0"/>
   <template class="Gjs_Window" parent="AdwApplicationWindow">
-    <property name="default-width">600</property>
-    <property name="default-height">400</property>
+    <property name="default-width">800</property>
+    <property name="default-height">800</property>
+    <property name="resizable">False</property>
     <property name="title">Pokedex</property>
-    <style>
-      <class name="devel"/>
-    </style>
-
-
     <child>
-      <object class="GtkBox">
+      <object class="GtkBox" id="window">
         <property name="orientation">vertical</property>
+        <style>
+          <class name="window"/>
+          <class name="transition-background"/>
+        </style>
+        <!-- Window bar -->
         <child>
           <object class="GtkHeaderBar" id="header_bar">
             <style>
@@ -27,63 +28,104 @@
             </child>
           </object>
         </child>
-
-
-
-
-        <!-- Input find pokemon -->
+        <!-- Body -->
         <child>
-          <object class="AdwClamp">
-            <property name="maximum-size">500</property>
-            <property name="margin-top">24</property>
-            <property name="margin-bottom">12</property>
+          <object class="AdwLeaflet" id="body">
+            <property name="can-unfold">True</property>
+            <property name="can-navigate-back">True</property>
+            <property name="orientation">horizontal</property>
+            <!-- Sidebar -->
             <child>
-              <object class="GtkEntry" id="entry_pokemon_search">
-                <property name="placeholder-text">Enter text here</property>
-              </object>
-            </child>
-          </object>
-        </child>
-
-        <!-- Scrolled pokemons list -->
-        <child>
-          <object class="GtkScrolledWindow">
-            <property name="height-request">400</property>
-            <property name="width-request">400</property>
-            <property name="margin-bottom">24</property>
-            <child>
-              <object class="AdwClamp">
-                <property name="maximum-size">500</property>
+              <object class="GtkBox">
+                <property name="orientation">vertical</property>
+                <property name="width_request">300</property>
+                <!-- Input search pokemon -->
                 <child>
-                  <object class="GtkBox">
-                    <property name="orientation">1</property>
+                  <object class="GtkEntry" id="entry_pokemon_search">
+                    <property name="margin-end">16</property>
+                    <property name="margin-start">16</property>
+                    <property name="placeholder-text">Enter text here</property>
+                  </object>
+                </child>
+                <!-- Scroll window -->
+                <child>
+                  <object class="GtkScrolledWindow">
+                    <property name="vexpand">true</property>
+                    <property name="margin-top">16</property>
                     <child>
-                      <object class="GtkListBox" id="pokemon_list">
-                        <property name="margin-top">24</property>
-                        <property name="margin-bottom">12</property>
-                        <property name="selection-mode">0</property>
-                        <style>
-                          <class name="boxed-list"/>
-                        </style>
+                      <object class="GtkBox">
 
+                        <property name="orientation">1</property>
+                        <!-- Pokemon List -->
+                        <child>
+                          <object class="GtkListBox" id="pokemon_list">
+                            <property name="selection-mode">0</property>
+                            <property name="margin-top">16</property>
+                            <property name="margin-end">16</property>
+                            <property name="margin-start">16</property>
+                            <property name="margin-bottom">16</property>
+                            <style>
+                              <class name="boxed-list"/>
+                              <class name="osd"/>
+                              <class name="flat"/>
+                            </style>
+                            <!-- Dynamic generated via js -->
+                          </object>
+                        </child>
                       </object>
                     </child>
-
                   </object>
                 </child>
               </object>
             </child>
+            <!-- Main -->
+            <child>
+              <object class="AdwLeaflet">
+                <!-- Main pokemon details -->
+                <!-- Scrolled -->
+                <child>
+                  <object class="GtkScrolledWindow">
+                    <property name="vexpand">true</property>
+                    <property name="margin-end">24</property>
+                    <property name="margin-start">24</property>
+                    <property name="width_request">400</property>
+
+                    <child>
+                      <object class="AdwClamp" id="pokemon_details">
+                        <property name="width_request">400</property>
+
+
+                        <!-- Dynamic via js code -->
+                      </object>
+                    </child>
+                  </object>
+                </child>
+
+                <!-- Evolutions and extra -->
+                <child>
+                  <object class="AdwClamp" id="pokemon_details_extra">
+                    <property name="width_request">400</property>
+
+                    <!-- Dynamic via js code -->
+                    <child>
+                      <object class="GtkEntry">
+                        <property name="margin-end">16</property>
+                        <property name="margin-start">16</property>
+                        <property name="placeholder-text">Enter text here</property>
+                      </object>
+                    </child>
+                  </object>
+                </child>
+
+
+              </object>
+            </child>
           </object>
+
         </child>
-
-
-
 
       </object>
     </child>
-
-
-
   </template>
   <menu id="primary_menu">
     <section>

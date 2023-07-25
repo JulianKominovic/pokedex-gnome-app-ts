@@ -1,0 +1,2427 @@
+.pokemon-1 {
+            background: linear-gradient(45deg, #59b18966, #1c0e0e66);
+        }
+.pokemon-2 {
+            background: linear-gradient(45deg, #4c989266, #d2698266);
+        }
+.pokemon-3 {
+            background: linear-gradient(45deg, #468b7e66, #dc6e7d66);
+        }
+.pokemon-4 {
+            background: linear-gradient(45deg, #e09f7066, #12202466);
+        }
+.pokemon-5 {
+            background: linear-gradient(45deg, #db816e66, #26291566);
+        }
+.pokemon-6 {
+            background: linear-gradient(45deg, #dca36e66, #41788166);
+        }
+.pokemon-7 {
+            background: linear-gradient(45deg, #5fb1bd66, #0e181c66);
+        }
+.pokemon-8 {
+            background: linear-gradient(45deg, #6cb6d866, #1c313866);
+        }
+.pokemon-9 {
+            background: linear-gradient(45deg, #40508066, #d56ba066);
+        }
+.pokemon-10 {
+            background: linear-gradient(45deg, #a2ba5d66, #0b120966);
+        }
+.pokemon-11 {
+            background: linear-gradient(45deg, #8eb65b66, #10190d66);
+        }
+.pokemon-12 {
+            background: linear-gradient(45deg, #789fef66, #1f253d66);
+        }
+.pokemon-13 {
+            background: linear-gradient(45deg, #b98b5d66, #1a0d1066);
+        }
+.pokemon-14 {
+            background: linear-gradient(45deg, #cdb46766, #1a180d66);
+        }
+.pokemon-15 {
+            background: linear-gradient(45deg, #d0bc6866, #1e213c66);
+        }
+.pokemon-16 {
+            background: linear-gradient(45deg, #c19c6166, #18110c66);
+        }
+.pokemon-17 {
+            background: linear-gradient(45deg, #cfa96866, #23191266);
+        }
+.pokemon-18 {
+            background: linear-gradient(45deg, #d4a36a66, #251c1366);
+        }
+.pokemon-19 {
+            background: linear-gradient(45deg, #aa559866, #0f080d66);
+        }
+.pokemon-20 {
+            background: linear-gradient(45deg, #b68d5b66, #130e0a66);
+        }
+.pokemon-21 {
+            background: linear-gradient(45deg, #ae675766, #160d0b66);
+        }
+.pokemon-22 {
+            background: linear-gradient(45deg, #a6755366, #1b110e66);
+        }
+.pokemon-23 {
+            background: linear-gradient(45deg, #994d7766, #0f080966);
+        }
+.pokemon-24 {
+            background: linear-gradient(45deg, #90489066, #28141466);
+        }
+.pokemon-25 {
+            background: linear-gradient(45deg, #e9d37566, #1c160e66);
+        }
+.pokemon-26 {
+            background: linear-gradient(45deg, #e0c07066, #493b2566);
+        }
+.pokemon-27 {
+            background: linear-gradient(45deg, #c9bf6566, #141a0d66);
+        }
+.pokemon-28 {
+            background: linear-gradient(45deg, #b6a25b66, #16110b66);
+        }
+.pokemon-29 {
+            background: linear-gradient(45deg, #6e91dc66, #27474d66);
+        }
+.pokemon-30 {
+            background: linear-gradient(45deg, #62aac466, #27384d66);
+        }
+.pokemon-31 {
+            background: linear-gradient(45deg, #5280a466, #d3b16a66);
+        }
+.pokemon-32 {
+            background: linear-gradient(45deg, #9a4e9c66, #2a535166);
+        }
+.pokemon-33 {
+            background: linear-gradient(45deg, #9552a466, #110b1566);
+        }
+.pokemon-34 {
+            background: linear-gradient(45deg, #9d4f9d66, #1d2c3966);
+        }
+.pokemon-35 {
+            background: linear-gradient(45deg, #ec768966, #1e0f1466);
+        }
+.pokemon-36 {
+            background: linear-gradient(45deg, #e6867366, #2b191666);
+        }
+.pokemon-37 {
+            background: linear-gradient(45deg, #bd7a5f66, #28181466);
+        }
+.pokemon-38 {
+            background: linear-gradient(45deg, #eadf7566, #3d221f66);
+        }
+.pokemon-39 {
+            background: linear-gradient(45deg, #ec769366, #25404966);
+        }
+.pokemon-40 {
+            background: linear-gradient(45deg, #e9759d66, #1e353c66);
+        }
+.pokemon-41 {
+            background: linear-gradient(45deg, #81509f66, #180e1c66);
+        }
+.pokemon-42 {
+            background: linear-gradient(45deg, #8752a366, #243c4766);
+        }
+.pokemon-43 {
+            background: linear-gradient(45deg, #478d5b66, #0e1b0e66);
+        }
+.pokemon-44 {
+            background: linear-gradient(45deg, #8d4d4766, #1c253866);
+        }
+.pokemon-45 {
+            background: linear-gradient(45deg, #cc667f66, #33456566);
+        }
+.pokemon-46 {
+            background: linear-gradient(45deg, #d18c6966, #20121066);
+        }
+.pokemon-47 {
+            background: linear-gradient(45deg, #c97c6566, #170e0c66);
+        }
+.pokemon-48 {
+            background: linear-gradient(45deg, #51478e66, #d56b9266);
+        }
+.pokemon-49 {
+            background: linear-gradient(45deg, #9c6edb66, #1b172d66);
+        }
+.pokemon-50 {
+            background: linear-gradient(45deg, #a96e5566, #12090966);
+        }
+.pokemon-51 {
+            background: linear-gradient(45deg, #9a684d66, #110d0966);
+        }
+.pokemon-52 {
+            background: linear-gradient(45deg, #dcb36e66, #24191266);
+        }
+.pokemon-53 {
+            background: linear-gradient(45deg, #dcb76e66, #281e1466);
+        }
+.pokemon-54 {
+            background: linear-gradient(45deg, #e6bc7366, #201a1066);
+        }
+.pokemon-55 {
+            background: linear-gradient(45deg, #5e93bc66, #e6c17366);
+        }
+.pokemon-56 {
+            background: linear-gradient(45deg, #d4926a66, #1e140f66);
+        }
+.pokemon-57 {
+            background: linear-gradient(45deg, #ba7d5d66, #1b0e0e66);
+        }
+.pokemon-58 {
+            background: linear-gradient(45deg, #d49d6a66, #18182f66);
+        }
+.pokemon-59 {
+            background: linear-gradient(45deg, #d09b6866, #17222d66);
+        }
+.pokemon-60 {
+            background: linear-gradient(45deg, #6593ca66, #0c101766);
+        }
+.pokemon-61 {
+            background: linear-gradient(45deg, #5a82b466, #76a7ec66);
+        }
+.pokemon-62 {
+            background: linear-gradient(45deg, #47678e66, #75a2e966);
+        }
+.pokemon-63 {
+            background: linear-gradient(45deg, #d4c46a66, #2a1e1566);
+        }
+.pokemon-64 {
+            background: linear-gradient(45deg, #c1ac6166, #2f1f1866);
+        }
+.pokemon-65 {
+            background: linear-gradient(45deg, #cbb96666, #2c161a66);
+        }
+.pokemon-66 {
+            background: linear-gradient(45deg, #61aac166, #2b161866);
+        }
+.pokemon-67 {
+            background: linear-gradient(45deg, #5c67b766, #211d3a66);
+        }
+.pokemon-68 {
+            background: linear-gradient(45deg, #5786ae66, #11112166);
+        }
+.pokemon-69 {
+            background: linear-gradient(45deg, #accb6666, #0f160b66);
+        }
+.pokemon-70 {
+            background: linear-gradient(45deg, #adcb6666, #12180c66);
+        }
+.pokemon-71 {
+            background: linear-gradient(45deg, #a2cc6666, #0d140a66);
+        }
+.pokemon-72 {
+            background: linear-gradient(45deg, #639bc566, #3f202666);
+        }
+.pokemon-73 {
+            background: linear-gradient(45deg, #5c89b766, #552b3366);
+        }
+.pokemon-74 {
+            background: linear-gradient(45deg, #a1915166, #20201066);
+        }
+.pokemon-75 {
+            background: linear-gradient(45deg, #84a55366, #1f1f1066);
+        }
+.pokemon-76 {
+            background: linear-gradient(45deg, #614c3166, #d66b7b66);
+        }
+.pokemon-77 {
+            background: linear-gradient(45deg, #ecba7666, #181e3066);
+        }
+.pokemon-78 {
+            background: linear-gradient(45deg, #eaae7566, #2e224466);
+        }
+.pokemon-79 {
+            background: linear-gradient(45deg, #db6e8666, #20101566);
+        }
+.pokemon-80 {
+            background: linear-gradient(45deg, #d2698766, #2b1a3466);
+        }
+.pokemon-81 {
+            background: linear-gradient(45deg, #61a7c266, #1e273b66);
+        }
+.pokemon-82 {
+            background: linear-gradient(45deg, #6293c466, #1d263966);
+        }
+.pokemon-83 {
+            background: linear-gradient(45deg, #b1905966, #161d0f66);
+        }
+.pokemon-84 {
+            background: linear-gradient(45deg, #af7e5866, #12232366);
+        }
+.pokemon-85 {
+            background: linear-gradient(45deg, #b4755a66, #14282866);
+        }
+.pokemon-86 {
+            background: linear-gradient(45deg, #73a4e566, #0c181866);
+        }
+.pokemon-87 {
+            background: linear-gradient(45deg, #77aeed66, #0f0f1e66);
+        }
+.pokemon-88 {
+            background: linear-gradient(45deg, #824f9e66, #180c1866);
+        }
+.pokemon-89 {
+            background: linear-gradient(45deg, #834e9b66, #1c0e1c66);
+        }
+.pokemon-90 {
+            background: linear-gradient(45deg, #785ebb66, #1e0f1966);
+        }
+.pokemon-91 {
+            background: linear-gradient(45deg, #5d4c9766, #14122366);
+        }
+.pokemon-92 {
+            background: linear-gradient(45deg, #8a458166, #1b0e0e66);
+        }
+.pokemon-93 {
+            background: linear-gradient(45deg, #583a7366, #e271b866);
+        }
+.pokemon-94 {
+            background: linear-gradient(45deg, #51408066, #ed827766);
+        }
+.pokemon-95 {
+            background: linear-gradient(45deg, #4e489066, #0c0c1866);
+        }
+.pokemon-96 {
+            background: linear-gradient(45deg, #cab06566, #4c3b2666);
+        }
+.pokemon-97 {
+            background: linear-gradient(45deg, #ddc86f66, #1c180e66);
+        }
+.pokemon-98 {
+            background: linear-gradient(45deg, #d68e6b66, #2a181566);
+        }
+.pokemon-99 {
+            background: linear-gradient(45deg, #d0886866, #281a1466);
+        }
+.pokemon-100 {
+            background: linear-gradient(45deg, #d46a8366, #28141d66);
+        }
+.pokemon-101 {
+            background: linear-gradient(45deg, #cb6bd566, #1d1a0f66);
+        }
+.pokemon-102 {
+            background: linear-gradient(45deg, #e5737c66, #21111166);
+        }
+.pokemon-103 {
+            background: linear-gradient(45deg, #73af5866, #0b160b66);
+        }
+.pokemon-104 {
+            background: linear-gradient(45deg, #c7a36466, #170c0c66);
+        }
+.pokemon-105 {
+            background: linear-gradient(45deg, #c1936166, #18100c66);
+        }
+.pokemon-106 {
+            background: linear-gradient(45deg, #b4735a66, #1d130f66);
+        }
+.pokemon-107 {
+            background: linear-gradient(45deg, #b25d5966, #180c0c66);
+        }
+.pokemon-108 {
+            background: linear-gradient(45deg, #da6d7766, #2b162066);
+        }
+.pokemon-109 {
+            background: linear-gradient(45deg, #a754a766, #100d1a66);
+        }
+.pokemon-110 {
+            background: linear-gradient(45deg, #7a53a666, #100e1c66);
+        }
+.pokemon-111 {
+            background: linear-gradient(45deg, #4d7f9a66, #1b152a66);
+        }
+.pokemon-112 {
+            background: linear-gradient(45deg, #536ba666, #13162666);
+        }
+.pokemon-113 {
+            background: linear-gradient(45deg, #e372a166, #21111666);
+        }
+.pokemon-114 {
+            background: linear-gradient(45deg, #41638166, #e1817166);
+        }
+.pokemon-115 {
+            background: linear-gradient(45deg, #b17e5966, #190d0d66);
+        }
+.pokemon-116 {
+            background: linear-gradient(45deg, #6cc6d766, #0e141b66);
+        }
+.pokemon-117 {
+            background: linear-gradient(45deg, #66c0cc66, #0e181c66);
+        }
+.pokemon-118 {
+            background: linear-gradient(45deg, #df70a166, #131d2666);
+        }
+.pokemon-119 {
+            background: linear-gradient(45deg, #dc7a6e66, #0f191e66);
+        }
+.pokemon-120 {
+            background: linear-gradient(45deg, #8e6f4766, #ecd47666);
+        }
+.pokemon-121 {
+            background: linear-gradient(45deg, #a0508a66, #0d0b1566);
+        }
+.pokemon-122 {
+            background: linear-gradient(45deg, #dc6e8c66, #2d475a66);
+        }
+.pokemon-123 {
+            background: linear-gradient(45deg, #72c56366, #12201066);
+        }
+.pokemon-124 {
+            background: linear-gradient(45deg, #b45a6166, #e4cd7266);
+        }
+.pokemon-125 {
+            background: linear-gradient(45deg, #cdb56766, #14182766);
+        }
+.pokemon-126 {
+            background: linear-gradient(45deg, #d29a6966, #0f141e66);
+        }
+.pokemon-127 {
+            background: linear-gradient(45deg, #9f505766, #180c1266);
+        }
+.pokemon-128 {
+            background: linear-gradient(45deg, #9d744f66, #170c1766);
+        }
+.pokemon-129 {
+            background: linear-gradient(45deg, #db916e66, #27171466);
+        }
+.pokemon-130 {
+            background: linear-gradient(45deg, #5684ac66, #c68e6366);
+        }
+.pokemon-131 {
+            background: linear-gradient(45deg, #5f9bbd66, #d6a36b66);
+        }
+.pokemon-132 {
+            background: linear-gradient(45deg, #9a65ca66, #12091266);
+        }
+.pokemon-133 {
+            background: linear-gradient(45deg, #b68a5b66, #140f0a66);
+        }
+.pokemon-134 {
+            background: linear-gradient(45deg, #5fa9be66, #ccd56b66);
+        }
+.pokemon-135 {
+            background: linear-gradient(45deg, #e2c47166, #190d1566);
+        }
+.pokemon-136 {
+            background: linear-gradient(45deg, #d49f6a66, #09121266);
+        }
+.pokemon-137 {
+            background: linear-gradient(45deg, #597bb266, #1c343866);
+        }
+.pokemon-138 {
+            background: linear-gradient(45deg, #9dce6766, #2d505966);
+        }
+.pokemon-139 {
+            background: linear-gradient(45deg, #5ebc8f66, #1d303966);
+        }
+.pokemon-140 {
+            background: linear-gradient(45deg, #b8865c66, #090d1266);
+        }
+.pokemon-141 {
+            background: linear-gradient(45deg, #a3745266, #150d0b66);
+        }
+.pokemon-142 {
+            background: linear-gradient(45deg, #8557ae66, #1d112166);
+        }
+.pokemon-143 {
+            background: linear-gradient(45deg, #cca76666, #3c677866);
+        }
+.pokemon-144 {
+            background: linear-gradient(45deg, #5f92be66, #71b9e166);
+        }
+.pokemon-145 {
+            background: linear-gradient(45deg, #d8be6c66, #1d0f0f66);
+        }
+.pokemon-146 {
+            background: linear-gradient(45deg, #e7b07466, #3d2e1f66);
+        }
+.pokemon-147 {
+            background: linear-gradient(45deg, #6b8ad666, #0c0c1766);
+        }
+.pokemon-148 {
+            background: linear-gradient(45deg, #6ca4d866, #141e2866);
+        }
+.pokemon-149 {
+            background: linear-gradient(45deg, #dead6f66, #366c6366);
+        }
+.pokemon-150 {
+            background: linear-gradient(45deg, #af5ebc66, #2c162c66);
+        }
+.pokemon-151 {
+            background: linear-gradient(45deg, #df709c66, #1d112166);
+        }
+.pokemon-152 {
+            background: linear-gradient(45deg, #96c86466, #131b0e66);
+        }
+.pokemon-153 {
+            background: linear-gradient(45deg, #c8bb6466, #23271466);
+        }
+.pokemon-154 {
+            background: linear-gradient(45deg, #c49e6266, #20241266);
+        }
+.pokemon-155 {
+            background: linear-gradient(45deg, #e2b07166, #305d6066);
+        }
+.pokemon-156 {
+            background: linear-gradient(45deg, #ddae6f66, #2d575966);
+        }
+.pokemon-157 {
+            background: linear-gradient(45deg, #e0bd7066, #1f1f3e66);
+        }
+.pokemon-158 {
+            background: linear-gradient(45deg, #4c909866, #d8996c66);
+        }
+.pokemon-159 {
+            background: linear-gradient(45deg, #529fa366, #eaa87566);
+        }
+.pokemon-160 {
+            background: linear-gradient(45deg, #60aabf66, #dd846f66);
+        }
+.pokemon-161 {
+            background: linear-gradient(45deg, #a76c5466, #2d1c1766);
+        }
+.pokemon-162 {
+            background: linear-gradient(45deg, #bf8a6066, #2b191666);
+        }
+.pokemon-163 {
+            background: linear-gradient(45deg, #c3836266, #2a1c1566);
+        }
+.pokemon-164 {
+            background: linear-gradient(45deg, #8c5f4666, #271a1466);
+        }
+.pokemon-165 {
+            background: linear-gradient(45deg, #d9a76d66, #28141466);
+        }
+.pokemon-166 {
+            background: linear-gradient(45deg, #cfad6866, #1c293866);
+        }
+.pokemon-167 {
+            background: linear-gradient(45deg, #aac16166, #1e383b66);
+        }
+.pokemon-168 {
+            background: linear-gradient(45deg, #a9555d66, #1f131066);
+        }
+.pokemon-169 {
+            background: linear-gradient(45deg, #444b8866, #f0d17866);
+        }
+.pokemon-170 {
+            background: linear-gradient(45deg, #495d9266, #e6d37366);
+        }
+.pokemon-171 {
+            background: linear-gradient(45deg, #576cae66, #e3c27266);
+        }
+.pokemon-172 {
+            background: linear-gradient(45deg, #eedb7766, #17262d66);
+        }
+.pokemon-173 {
+            background: linear-gradient(45deg, #e68d7366, #4f3b2866);
+        }
+.pokemon-174 {
+            background: linear-gradient(45deg, #ed779a66, #1e0f1466);
+        }
+.pokemon-175 {
+            background: linear-gradient(45deg, #e9ce7566, #2a4b5466);
+        }
+.pokemon-176 {
+            background: linear-gradient(45deg, #98e47266, #16272c66);
+        }
+.pokemon-177 {
+            background: linear-gradient(45deg, #a5bb5e66, #ae576266);
+        }
+.pokemon-178 {
+            background: linear-gradient(45deg, #a5c66366, #b75c6766);
+        }
+.pokemon-179 {
+            background: linear-gradient(45deg, #d1b16966, #354e6966);
+        }
+.pokemon-180 {
+            background: linear-gradient(45deg, #cb668a66, #13132666);
+        }
+.pokemon-181 {
+            background: linear-gradient(45deg, #e6c77366, #3a311d66);
+        }
+.pokemon-182 {
+            background: linear-gradient(45deg, #ba9a5d66, #25492866);
+        }
+.pokemon-183 {
+            background: linear-gradient(45deg, #6eb7db66, #6a3d3566);
+        }
+.pokemon-184 {
+            background: linear-gradient(45deg, #61a1c166, #d16c6966);
+        }
+.pokemon-185 {
+            background: linear-gradient(45deg, #967a4b66, #12110966);
+        }
+.pokemon-186 {
+            background: linear-gradient(45deg, #a7c16166, #13190d66);
+        }
+.pokemon-187 {
+            background: linear-gradient(45deg, #c8776466, #20251366);
+        }
+.pokemon-188 {
+            background: linear-gradient(45deg, #9bbf6066, #0e110966);
+        }
+.pokemon-189 {
+            background: linear-gradient(45deg, #5d6fb966, #24304766);
+        }
+.pokemon-190 {
+            background: linear-gradient(45deg, #bd5f6c66, #150b1566);
+        }
+.pokemon-191 {
+            background: linear-gradient(45deg, #bbbb5e66, #4a342566);
+        }
+.pokemon-192 {
+            background: linear-gradient(45deg, #bacc6666, #11170c66);
+        }
+.pokemon-193 {
+            background: linear-gradient(45deg, #c18c6166, #1f162c66);
+        }
+.pokemon-194 {
+            background: linear-gradient(45deg, #68a6d066, #121a2466);
+        }
+.pokemon-195 {
+            background: linear-gradient(45deg, #61a1c166, #101b2066);
+        }
+.pokemon-196 {
+            background: linear-gradient(45deg, #cc66b066, #212a4166);
+        }
+.pokemon-197 {
+            background: linear-gradient(45deg, #27444e66, #deba6f66);
+        }
+.pokemon-198 {
+            background: linear-gradient(45deg, #2c425766, #dcaa6e66);
+        }
+.pokemon-199 {
+            background: linear-gradient(45deg, #d3756a66, #27141466);
+        }
+.pokemon-200 {
+            background: linear-gradient(45deg, #3e637b66, #d46b6a66);
+        }
+.pokemon-201 {
+            background: linear-gradient(45deg, #2e475b66, #74a2e866);
+        }
+.pokemon-202 {
+            background: linear-gradient(45deg, #5fa0be66, #13132566);
+        }
+.pokemon-203 {
+            background: linear-gradient(45deg, #dcb56e66, #33201a66);
+        }
+.pokemon-204 {
+            background: linear-gradient(45deg, #2b4d5566, #59b18966);
+        }
+.pokemon-205 {
+            background: linear-gradient(45deg, #c7647666, #261d1366);
+        }
+.pokemon-206 {
+            background: linear-gradient(45deg, #e8dc7466, #34656766);
+        }
+.pokemon-207 {
+            background: linear-gradient(45deg, #cc669e66, #3a557366);
+        }
+.pokemon-208 {
+            background: linear-gradient(45deg, #40487f66, #d96d6d66);
+        }
+.pokemon-209 {
+            background: linear-gradient(45deg, #d0687066, #2e1c1766);
+        }
+.pokemon-210 {
+            background: linear-gradient(45deg, #d269a866, #2c161666);
+        }
+.pokemon-211 {
+            background: linear-gradient(45deg, #b0c06066, #30605d66);
+        }
+.pokemon-212 {
+            background: linear-gradient(45deg, #a8565466, #101f1566);
+        }
+.pokemon-213 {
+            background: linear-gradient(45deg, #e1c07166, #1c170e66);
+        }
+.pokemon-214 {
+            background: linear-gradient(45deg, #4c779866, #0b111566);
+        }
+.pokemon-215 {
+            background: linear-gradient(45deg, #39597166, #d86c7266);
+        }
+.pokemon-216 {
+            background: linear-gradient(45deg, #d8a16c66, #251c1366);
+        }
+.pokemon-217 {
+            background: linear-gradient(45deg, #96674b66, #eed77766);
+        }
+.pokemon-218 {
+            background: linear-gradient(45deg, #de816f66, #1d120f66);
+        }
+.pokemon-219 {
+            background: linear-gradient(45deg, #b8625c66, #23121266);
+        }
+.pokemon-220 {
+            background: linear-gradient(45deg, #ab755666, #18180c66);
+        }
+.pokemon-221 {
+            background: linear-gradient(45deg, #a8725466, #1e1b0f66);
+        }
+.pokemon-222 {
+            background: linear-gradient(45deg, #e5738366, #21161166);
+        }
+.pokemon-223 {
+            background: linear-gradient(45deg, #66cb6666, #13251c66);
+        }
+.pokemon-224 {
+            background: linear-gradient(45deg, #d3726a66, #1e130f66);
+        }
+.pokemon-225 {
+            background: linear-gradient(45deg, #da856d66, #bb685e66);
+        }
+.pokemon-226 {
+            background: linear-gradient(45deg, #c060af66, #2d415a66);
+        }
+.pokemon-227 {
+            background: linear-gradient(45deg, #6478c866, #954b4d66);
+        }
+.pokemon-228 {
+            background: linear-gradient(45deg, #513d2966, #cf886866);
+        }
+.pokemon-229 {
+            background: linear-gradient(45deg, #4f2e2866, #ca826566);
+        }
+.pokemon-230 {
+            background: linear-gradient(45deg, #5c9bb866, #d7b46c66);
+        }
+.pokemon-231 {
+            background: linear-gradient(45deg, #60c0bb66, #0d1a1666);
+        }
+.pokemon-232 {
+            background: linear-gradient(45deg, #36466c66, #72b2e366);
+        }
+.pokemon-233 {
+            background: linear-gradient(45deg, #a151a166, #1f303d66);
+        }
+.pokemon-234 {
+            background: linear-gradient(45deg, #ba8a5d66, #2c191666);
+        }
+.pokemon-235 {
+            background: linear-gradient(45deg, #d5b06b66, #1d170f66);
+        }
+.pokemon-236 {
+            background: linear-gradient(45deg, #c4627766, #251e1366);
+        }
+.pokemon-237 {
+            background: linear-gradient(45deg, #985e4c66, #0e181b66);
+        }
+.pokemon-238 {
+            background: linear-gradient(45deg, #e3b87266, #12241266);
+        }
+.pokemon-239 {
+            background: linear-gradient(45deg, #e1c67166, #2f231866);
+        }
+.pokemon-240 {
+            background: linear-gradient(45deg, #d0696866, #21181166);
+        }
+.pokemon-241 {
+            background: linear-gradient(45deg, #df8a7066, #1e2d3c66);
+        }
+.pokemon-242 {
+            background: linear-gradient(45deg, #da6d8a66, #25131f66);
+        }
+.pokemon-243 {
+            background: linear-gradient(45deg, #c4a46266, #2a201566);
+        }
+.pokemon-244 {
+            background: linear-gradient(45deg, #724c3966, #99b15966);
+        }
+.pokemon-245 {
+            background: linear-gradient(45deg, #5883af66, #0f111d66);
+        }
+.pokemon-246 {
+            background: linear-gradient(45deg, #929e4f66, #1c1c0e66);
+        }
+.pokemon-247 {
+            background: linear-gradient(45deg, #5f7abe66, #08080f66);
+        }
+.pokemon-248 {
+            background: linear-gradient(45deg, #799d4f66, #18201066);
+        }
+.pokemon-249 {
+            background: linear-gradient(45deg, #7184e166, #2a345466);
+        }
+.pokemon-250 {
+            background: linear-gradient(45deg, #d1996966, #341a1f66);
+        }
+.pokemon-251 {
+            background: linear-gradient(45deg, #a2df7066, #1e353b66);
+        }
+.pokemon-252 {
+            background: linear-gradient(45deg, #8eb35a66, #10180c66);
+        }
+.pokemon-253 {
+            background: linear-gradient(45deg, #56a85466, #ea767566);
+        }
+.pokemon-254 {
+            background: linear-gradient(45deg, #59b26066, #101b0e66);
+        }
+.pokemon-255 {
+            background: linear-gradient(45deg, #e2a97166, #271c1466);
+        }
+.pokemon-256 {
+            background: linear-gradient(45deg, #e0ad7066, #281e1466);
+        }
+.pokemon-257 {
+            background: linear-gradient(45deg, #dda56f66, #31191966);
+        }
+.pokemon-258 {
+            background: linear-gradient(45deg, #65b9c966, #182a3066);
+        }
+.pokemon-259 {
+            background: linear-gradient(45deg, #59b2ab66, #0d171a66);
+        }
+.pokemon-260 {
+            background: linear-gradient(45deg, #527da466, #dca36e66);
+        }
+.pokemon-261 {
+            background: linear-gradient(45deg, #a6a65366, #1d0f0f66);
+        }
+.pokemon-262 {
+            background: linear-gradient(45deg, #2c2c2c66, #c0c0c066);
+        }
+.pokemon-263 {
+            background: linear-gradient(45deg, #af815866, #1d0f0f66);
+        }
+.pokemon-264 {
+            background: linear-gradient(45deg, #ca8d6566, #2c1c1666);
+        }
+.pokemon-265 {
+            background: linear-gradient(45deg, #dc816e66, #160d0b66);
+        }
+.pokemon-266 {
+            background: linear-gradient(45deg, #7979f166, #180c1866);
+        }
+.pokemon-267 {
+            background: linear-gradient(45deg, #2c515866, #e5b67366);
+        }
+.pokemon-268 {
+            background: linear-gradient(45deg, #af6edb66, #170c1766);
+        }
+.pokemon-269 {
+            background: linear-gradient(45deg, #a9a65566, #14180c66);
+        }
+.pokemon-270 {
+            background: linear-gradient(45deg, #4e9c5b66, #070e0966);
+        }
+.pokemon-271 {
+            background: linear-gradient(45deg, #82b65b66, #11190d66);
+        }
+.pokemon-272 {
+            background: linear-gradient(45deg, #bac76466, #1a1d0f66);
+        }
+.pokemon-273 {
+            background: linear-gradient(45deg, #a7815466, #18180c66);
+        }
+.pokemon-274 {
+            background: linear-gradient(45deg, #b6915b66, #14110a66);
+        }
+.pokemon-275 {
+            background: linear-gradient(45deg, #bd975f66, #31624266);
+        }
+.pokemon-276 {
+            background: linear-gradient(45deg, #2f3f5e66, #d86c7b66);
+        }
+.pokemon-277 {
+            background: linear-gradient(45deg, #2c315766, #cd678666);
+        }
+.pokemon-278 {
+            background: linear-gradient(45deg, #77cfed66, #22394366);
+        }
+.pokemon-279 {
+            background: linear-gradient(45deg, #d9c66d66, #23384566);
+        }
+.pokemon-280 {
+            background: linear-gradient(45deg, #8dbf6066, #12170c66);
+        }
+.pokemon-281 {
+            background: linear-gradient(45deg, #81c66366, #0a130a66);
+        }
+.pokemon-282 {
+            background: linear-gradient(45deg, #79e37266, #2d4c2666);
+        }
+.pokemon-283 {
+            background: linear-gradient(45deg, #69c1d266, #101b2066);
+        }
+.pokemon-284 {
+            background: linear-gradient(45deg, #e2857166, #21111166);
+        }
+.pokemon-285 {
+            background: linear-gradient(45deg, #d7b36c66, #2b553e66);
+        }
+.pokemon-286 {
+            background: linear-gradient(45deg, #b5af5b66, #14170c66);
+        }
+.pokemon-287 {
+            background: linear-gradient(45deg, #ce916766, #1b120e66);
+        }
+.pokemon-288 {
+            background: linear-gradient(45deg, #e1719d66, #33261a66);
+        }
+.pokemon-289 {
+            background: linear-gradient(45deg, #ba865d66, #160f0b66);
+        }
+.pokemon-290 {
+            background: linear-gradient(45deg, #6bd6a166, #19191966);
+        }
+.pokemon-291 {
+            background: linear-gradient(45deg, #e0bb7066, #26131366);
+        }
+.pokemon-292 {
+            background: linear-gradient(45deg, #c09c6066, #15100b66);
+        }
+.pokemon-293 {
+            background: linear-gradient(45deg, #dd756f66, #150b0e66);
+        }
+.pokemon-294 {
+            background: linear-gradient(45deg, #9c58b066, #0f091266);
+        }
+.pokemon-295 {
+            background: linear-gradient(45deg, #925bb666, #15101f66);
+        }
+.pokemon-296 {
+            background: linear-gradient(45deg, #e1c37166, #30224466);
+        }
+.pokemon-297 {
+            background: linear-gradient(45deg, #deab6f66, #2c2c5866);
+        }
+.pokemon-298 {
+            background: linear-gradient(45deg, #6fb3dd66, #0f131e66);
+        }
+.pokemon-299 {
+            background: linear-gradient(45deg, #5362a666, #24121766);
+        }
+.pokemon-300 {
+            background: linear-gradient(45deg, #f0a37866, #341c3766);
+        }
+.pokemon-301 {
+            background: linear-gradient(45deg, #ce676d66, #190d1266);
+        }
+.pokemon-302 {
+            background: linear-gradient(45deg, #504a9366, #de6fce66);
+        }
+.pokemon-303 {
+            background: linear-gradient(45deg, #5f303966, #edc87766);
+        }
+.pokemon-304 {
+            background: linear-gradient(45deg, #6da3d966, #18232f66);
+        }
+.pokemon-305 {
+            background: linear-gradient(45deg, #c563c566, #12232366);
+        }
+.pokemon-306 {
+            background: linear-gradient(45deg, #303a6066, #aa71e266);
+        }
+.pokemon-307 {
+            background: linear-gradient(45deg, #6eaadc66, #10182066);
+        }
+.pokemon-308 {
+            background: linear-gradient(45deg, #d1697f66, #e3c07266);
+        }
+.pokemon-309 {
+            background: linear-gradient(45deg, #93c56366, #11170c66);
+        }
+.pokemon-310 {
+            background: linear-gradient(45deg, #71bc5e66, #16262c66);
+        }
+.pokemon-311 {
+            background: linear-gradient(45deg, #e6bb7366, #b95d6466);
+        }
+.pokemon-312 {
+            background: linear-gradient(45deg, #68cfa966, #131e2566);
+        }
+.pokemon-313 {
+            background: linear-gradient(45deg, #b2595e66, #1f353d66);
+        }
+.pokemon-314 {
+            background: linear-gradient(45deg, #5f70bd66, #181f2f66);
+        }
+.pokemon-315 {
+            background: linear-gradient(45deg, #58af9366, #dd946f66);
+        }
+.pokemon-316 {
+            background: linear-gradient(45deg, #96c66366, #10150b66);
+        }
+.pokemon-317 {
+            background: linear-gradient(45deg, #7356ac66, #160f1e66);
+        }
+.pokemon-318 {
+            background: linear-gradient(45deg, #d19a6966, #2e435c66);
+        }
+.pokemon-319 {
+            background: linear-gradient(45deg, #37596d66, #b769d166);
+        }
+.pokemon-320 {
+            background: linear-gradient(45deg, #4c779766, #f9d47d66);
+        }
+.pokemon-321 {
+            background: linear-gradient(45deg, #8bb95d66, #48768f66);
+        }
+.pokemon-322 {
+            background: linear-gradient(45deg, #edd07766, #1e1c0f66);
+        }
+.pokemon-323 {
+            background: linear-gradient(45deg, #c2736166, #1b303666);
+        }
+.pokemon-324 {
+            background: linear-gradient(45deg, #cf996866, #2f1c1866);
+        }
+.pokemon-325 {
+            background: linear-gradient(45deg, #ae577066, #150b1566);
+        }
+.pokemon-326 {
+            background: linear-gradient(45deg, #5d2f3e66, #d56baf66);
+        }
+.pokemon-327 {
+            background: linear-gradient(45deg, #dd836f66, #0f080866);
+        }
+.pokemon-328 {
+            background: linear-gradient(45deg, #e3957266, #1a110d66);
+        }
+.pokemon-329 {
+            background: linear-gradient(45deg, #49925266, #d9d96d66);
+        }
+.pokemon-330 {
+            background: linear-gradient(45deg, #b2ba5d66, #1d271466);
+        }
+.pokemon-331 {
+            background: linear-gradient(45deg, #81c06066, #17251366);
+        }
+.pokemon-332 {
+            background: linear-gradient(45deg, #85c96566, #25492966);
+        }
+.pokemon-333 {
+            background: linear-gradient(45deg, #7bcaf666, #558faa66);
+        }
+.pokemon-334 {
+            background: linear-gradient(45deg, #78c8f066, #5496a866);
+        }
+.pokemon-335 {
+            background: linear-gradient(45deg, #7878ef66, #d0687466);
+        }
+.pokemon-336 {
+            background: linear-gradient(45deg, #38536f66, #e4ac7266);
+        }
+.pokemon-337 {
+            background: linear-gradient(45deg, #d0b56866, #15150b66);
+        }
+.pokemon-338 {
+            background: linear-gradient(45deg, #e0b07066, #1f181066);
+        }
+.pokemon-339 {
+            background: linear-gradient(45deg, #65aaca66, #090d1166);
+        }
+.pokemon-340 {
+            background: linear-gradient(45deg, #333e6566, #aeca6566);
+        }
+.pokemon-341 {
+            background: linear-gradient(45deg, #e0917066, #1d120f66);
+        }
+.pokemon-342 {
+            background: linear-gradient(45deg, #b5605b66, #17232e66);
+        }
+.pokemon-343 {
+            background: linear-gradient(45deg, #c6a06366, #16100b66);
+        }
+.pokemon-344 {
+            background: linear-gradient(45deg, #41212166, #e87f7466);
+        }
+.pokemon-345 {
+            background: linear-gradient(45deg, #cd678066, #1b0e1b66);
+        }
+.pokemon-346 {
+            background: linear-gradient(45deg, #a9c26166, #14140a66);
+        }
+.pokemon-347 {
+            background: linear-gradient(45deg, #b0665866, #16160b66);
+        }
+.pokemon-348 {
+            background: linear-gradient(45deg, #5882af66, #e8b07466);
+        }
+.pokemon-349 {
+            background: linear-gradient(45deg, #b5a15b66, #0c181866);
+        }
+.pokemon-350 {
+            background: linear-gradient(45deg, #e49c7266, #2d4d5a66);
+        }
+.pokemon-351 {
+            background: linear-gradient(45deg, #6d6dd966, #0d0d1a66);
+        }
+.pokemon-352 {
+            background: linear-gradient(45deg, #b6cc6666, #1e0f0f66);
+        }
+.pokemon-353 {
+            background: linear-gradient(45deg, #4f5e9e66, #07090d66);
+        }
+.pokemon-354 {
+            background: linear-gradient(45deg, #89634566, #0e0e0e66);
+        }
+.pokemon-355 {
+            background: linear-gradient(45deg, #a6a65366, #10101066);
+        }
+.pokemon-356 {
+            background: linear-gradient(45deg, #b67d5b66, #20101066);
+        }
+.pokemon-357 {
+            background: linear-gradient(45deg, #579c4e66, #cea56766);
+        }
+.pokemon-358 {
+            background: linear-gradient(45deg, #cc669e66, #32192666);
+        }
+.pokemon-359 {
+            background: linear-gradient(45deg, #7599ea66, #32416366);
+        }
+.pokemon-360 {
+            background: linear-gradient(45deg, #67c5cd66, #48242466);
+        }
+.pokemon-361 {
+            background: linear-gradient(45deg, #ecbb7666, #3c2d1e66);
+        }
+.pokemon-362 {
+            background: linear-gradient(45deg, #6c8bd766, #0f191d66);
+        }
+.pokemon-363 {
+            background: linear-gradient(45deg, #6dd9d966, #506b9f66);
+        }
+.pokemon-364 {
+            background: linear-gradient(45deg, #6cc2d866, #477a8e66);
+        }
+.pokemon-365 {
+            background: linear-gradient(45deg, #5d9dba66, #74b7e866);
+        }
+.pokemon-366 {
+            background: linear-gradient(45deg, #12192466, #7e70e066);
+        }
+.pokemon-367 {
+            background: linear-gradient(45deg, #b5b55b66, #0f181e66);
+        }
+.pokemon-368 {
+            background: linear-gradient(45deg, #e573a366, #21111a66);
+        }
+.pokemon-369 {
+            background: linear-gradient(45deg, #76503b66, #cb906666);
+        }
+.pokemon-370 {
+            background: linear-gradient(45deg, #d36a7866, #150b1266);
+        }
+.pokemon-371 {
+            background: linear-gradient(45deg, #65acc966, #09101266);
+        }
+.pokemon-372 {
+            background: linear-gradient(45deg, #9a67cd66, #170c1766);
+        }
+.pokemon-373 {
+            background: linear-gradient(45deg, #a3525e66, #467f8b66);
+        }
+.pokemon-374 {
+            background: linear-gradient(45deg, #5c98b866, #0b111566);
+        }
+.pokemon-375 {
+            background: linear-gradient(45deg, #406b8066, #d1699d66);
+        }
+.pokemon-376 {
+            background: linear-gradient(45deg, #5185a166, #9564c766);
+        }
+.pokemon-377 {
+            background: linear-gradient(45deg, #b7655c66, #1d0f1266);
+        }
+.pokemon-378 {
+            background: linear-gradient(45deg, #70c4df66, #18292f66);
+        }
+.pokemon-379 {
+            background: linear-gradient(45deg, #5050a066, #111e2266);
+        }
+.pokemon-380 {
+            background: linear-gradient(45deg, #c0608866, #141a2766);
+        }
+.pokemon-381 {
+            background: linear-gradient(45deg, #5a8fb466, #6181c166);
+        }
+.pokemon-382 {
+            background: linear-gradient(45deg, #4d729966, #d2698a66);
+        }
+.pokemon-383 {
+            background: linear-gradient(45deg, #ae615766, #1d0f1466);
+        }
+.pokemon-384 {
+            background: linear-gradient(45deg, #458a6766, #d0946866);
+        }
+.pokemon-385 {
+            background: linear-gradient(45deg, #eed47766, #42828466);
+        }
+.pokemon-386 {
+            background: linear-gradient(45deg, #b77b5c66, #253f4966);
+        }
+.pokemon-387 {
+            background: linear-gradient(45deg, #c0bd6066, #3c5c2e66);
+        }
+.pokemon-388 {
+            background: linear-gradient(45deg, #648c4666, #ceb86766);
+        }
+.pokemon-389 {
+            background: linear-gradient(45deg, #54723966, #c6956366);
+        }
+.pokemon-390 {
+            background: linear-gradient(45deg, #dfb07066, #1f181066);
+        }
+.pokemon-391 {
+            background: linear-gradient(45deg, #c6936366, #2c495766);
+        }
+.pokemon-392 {
+            background: linear-gradient(45deg, #cc926666, #293c5166);
+        }
+.pokemon-393 {
+            background: linear-gradient(45deg, #71cc6666, #36526b66);
+        }
+.pokemon-394 {
+            background: linear-gradient(45deg, #3c5b7866, #dfbe7066);
+        }
+.pokemon-395 {
+            background: linear-gradient(45deg, #25364966, #dfb47066);
+        }
+.pokemon-396 {
+            background: linear-gradient(45deg, #57372c66, #d5966b66);
+        }
+.pokemon-397 {
+            background: linear-gradient(45deg, #5b3a2e66, #d8976c66);
+        }
+.pokemon-398 {
+            background: linear-gradient(45deg, #5b362e66, #e29a7166);
+        }
+.pokemon-399 {
+            background: linear-gradient(45deg, #9a754d66, #231a1266);
+        }
+.pokemon-400 {
+            background: linear-gradient(45deg, #aa865566, #34231a66);
+        }
+.pokemon-401 {
+            background: linear-gradient(45deg, #9f605066, #eac97566);
+        }
+.pokemon-402 {
+            background: linear-gradient(45deg, #a7635466, #1f152966);
+        }
+.pokemon-403 {
+            background: linear-gradient(45deg, #599fb166, #25252566);
+        }
+.pokemon-404 {
+            background: linear-gradient(45deg, #28475066, #66b6cc66);
+        }
+.pokemon-405 {
+            background: linear-gradient(45deg, #21214266, #5da3ba66);
+        }
+.pokemon-406 {
+            background: linear-gradient(45deg, #97bf6066, #131b0e66);
+        }
+.pokemon-407 {
+            background: linear-gradient(45deg, #5bb6b166, #0d191766);
+        }
+.pokemon-408 {
+            background: linear-gradient(45deg, #507b9f66, #d9886d66);
+        }
+.pokemon-409 {
+            background: linear-gradient(45deg, #38546f66, #cf688166);
+        }
+.pokemon-410 {
+            background: linear-gradient(45deg, #715c3966, #dfb77066);
+        }
+.pokemon-411 {
+            background: linear-gradient(45deg, #6e373766, #e1ba7166);
+        }
+.pokemon-412 {
+            background: linear-gradient(45deg, #5a8c4666, #0f120966);
+        }
+.pokemon-413 {
+            background: linear-gradient(45deg, #4a8e4766, #e6e67366);
+        }
+.pokemon-414 {
+            background: linear-gradient(45deg, #d9ac6d66, #32261966);
+        }
+.pokemon-415 {
+            background: linear-gradient(45deg, #ddb16f66, #72a6e366);
+        }
+.pokemon-416 {
+            background: linear-gradient(45deg, #89694566, #e6c47366);
+        }
+.pokemon-417 {
+            background: linear-gradient(45deg, #73cbe566, #111e2266);
+        }
+.pokemon-418 {
+            background: linear-gradient(45deg, #cf946866, #25424a66);
+        }
+.pokemon-419 {
+            background: linear-gradient(45deg, #d7a86c66, #2c4d5766);
+        }
+.pokemon-420 {
+            background: linear-gradient(45deg, #d36a7a66, #43854566);
+        }
+.pokemon-421 {
+            background: linear-gradient(45deg, #633a7466, #57ad5966);
+        }
+.pokemon-422 {
+            background: linear-gradient(45deg, #c2776166, #4d909966);
+        }
+.pokemon-423 {
+            background: linear-gradient(45deg, #468c5966, #dc7c6e66);
+        }
+.pokemon-424 {
+            background: linear-gradient(45deg, #b85c6466, #18101f66);
+        }
+.pokemon-425 {
+            background: linear-gradient(45deg, #b65b7b66, #130a0e66);
+        }
+.pokemon-426 {
+            background: linear-gradient(45deg, #ae575f66, #110c1766);
+        }
+.pokemon-427 {
+            background: linear-gradient(45deg, #c3976266, #1e150f66);
+        }
+.pokemon-428 {
+            background: linear-gradient(45deg, #d1ac6966, #2d201766);
+        }
+.pokemon-429 {
+            background: linear-gradient(45deg, #7c489066, #170e1c66);
+        }
+.pokemon-430 {
+            background: linear-gradient(45deg, #2c3e5866, #d07a6866);
+        }
+.pokemon-431 {
+            background: linear-gradient(45deg, #5257a366, #0d141a66);
+        }
+.pokemon-432 {
+            background: linear-gradient(45deg, #7759b266, #10151f66);
+        }
+.pokemon-433 {
+            background: linear-gradient(45deg, #daaa6d66, #72a4e466);
+        }
+.pokemon-434 {
+            background: linear-gradient(45deg, #55306066, #ebbe7666);
+        }
+.pokemon-435 {
+            background: linear-gradient(45deg, #5b346766, #ebc27666);
+        }
+.pokemon-436 {
+            background: linear-gradient(45deg, #487f8f66, #e9bc7566);
+        }
+.pokemon-437 {
+            background: linear-gradient(45deg, #50a09c66, #16242c66);
+        }
+.pokemon-438 {
+            background: linear-gradient(45deg, #89984c66, #141b0e66);
+        }
+.pokemon-439 {
+            background: linear-gradient(45deg, #b85c8a66, #16132566);
+        }
+.pokemon-440 {
+            background: linear-gradient(45deg, #e1717466, #28141766);
+        }
+.pokemon-441 {
+            background: linear-gradient(45deg, #2f565e66, #ce916766);
+        }
+.pokemon-442 {
+            background: linear-gradient(45deg, #bc6a5e66, #1f2f1866);
+        }
+.pokemon-443 {
+            background: linear-gradient(45deg, #426f8366, #d7766c66);
+        }
+.pokemon-444 {
+            background: linear-gradient(45deg, #43488566, #d87d6c66);
+        }
+.pokemon-445 {
+            background: linear-gradient(45deg, #39407266, #e29b7166);
+        }
+.pokemon-446 {
+            background: linear-gradient(45deg, #47748d66, #ecc17666);
+        }
+.pokemon-447 {
+            background: linear-gradient(45deg, #37566d66, #e8a37466);
+        }
+.pokemon-448 {
+            background: linear-gradient(45deg, #3a627366, #e1bf7166);
+        }
+.pokemon-449 {
+            background: linear-gradient(45deg, #b5995b66, #14110a66);
+        }
+.pokemon-450 {
+            background: linear-gradient(45deg, #a6885366, #2a231566);
+        }
+.pokemon-451 {
+            background: linear-gradient(45deg, #48589066, #e1877166);
+        }
+.pokemon-452 {
+            background: linear-gradient(45deg, #7e489066, #1f2b3d66);
+        }
+.pokemon-453 {
+            background: linear-gradient(45deg, #3e547b66, #e6a87366);
+        }
+.pokemon-454 {
+            background: linear-gradient(45deg, #45638a66, #d4766a66);
+        }
+.pokemon-455 {
+            background: linear-gradient(45deg, #8fb75c66, #1d2e1766);
+        }
+.pokemon-456 {
+            background: linear-gradient(45deg, #5e8fbc66, #21374266);
+        }
+.pokemon-457 {
+            background: linear-gradient(45deg, #28485066, #6dd6d966);
+        }
+.pokemon-458 {
+            background: linear-gradient(45deg, #629cc366, #0c111766);
+        }
+.pokemon-459 {
+            background: linear-gradient(45deg, #5ab38166, #19312f66);
+        }
+.pokemon-460 {
+            background: linear-gradient(45deg, #65baca66, #1c343866);
+        }
+.pokemon-461 {
+            background: linear-gradient(45deg, #994d6366, #1c102066);
+        }
+.pokemon-462 {
+            background: linear-gradient(45deg, #334f6666, #d0926866);
+        }
+.pokemon-463 {
+            background: linear-gradient(45deg, #cb666c66, #27151466);
+        }
+.pokemon-464 {
+            background: linear-gradient(45deg, #8c594666, #1d0f0f66);
+        }
+.pokemon-465 {
+            background: linear-gradient(45deg, #5179a166, #24142766);
+        }
+.pokemon-466 {
+            background: linear-gradient(45deg, #c8aa6466, #2b201666);
+        }
+.pokemon-467 {
+            background: linear-gradient(45deg, #c17a6166, #33221a66);
+        }
+.pokemon-468 {
+            background: linear-gradient(45deg, #67cdbe66, #36596b66);
+        }
+.pokemon-469 {
+            background: linear-gradient(45deg, #4a522966, #ec827666);
+        }
+.pokemon-470 {
+            background: linear-gradient(45deg, #a2c66366, #12160b66);
+        }
+.pokemon-471 {
+            background: linear-gradient(45deg, #5cb5b766, #172b2d66);
+        }
+.pokemon-472 {
+            background: linear-gradient(45deg, #3f427d66, #dc8b6e66);
+        }
+.pokemon-473 {
+            background: linear-gradient(45deg, #b18b5966, #2a231566);
+        }
+.pokemon-474 {
+            background: linear-gradient(45deg, #5792ad66, #d86c6f66);
+        }
+.pokemon-475 {
+            background: linear-gradient(45deg, #3d7a4d66, #df8b7066);
+        }
+.pokemon-476 {
+            background: linear-gradient(45deg, #2f2f5e66, #c76b6466);
+        }
+.pokemon-477 {
+            background: linear-gradient(45deg, #67583466, #d2ba6966);
+        }
+.pokemon-478 {
+            background: linear-gradient(45deg, #66b7cb66, #141b2866);
+        }
+.pokemon-479 {
+            background: linear-gradient(45deg, #7ac36266, #426b8466);
+        }
+.pokemon-480 {
+            background: linear-gradient(45deg, #b5b55b66, #0b161666);
+        }
+.pokemon-481 {
+            background: linear-gradient(45deg, #a762c466, #1c0e1c66);
+        }
+.pokemon-482 {
+            background: linear-gradient(45deg, #5f9ebd66, #0d151966);
+        }
+.pokemon-483 {
+            background: linear-gradient(45deg, #39417266, #72a4e466);
+        }
+.pokemon-484 {
+            background: linear-gradient(45deg, #af63c666, #231e3b66);
+        }
+.pokemon-485 {
+            background: linear-gradient(45deg, #a16f5166, #66413366);
+        }
+.pokemon-486 {
+            background: linear-gradient(45deg, #c7ac6466, #264b3566);
+        }
+.pokemon-487 {
+            background: linear-gradient(45deg, #553e2b66, #d0ac6866);
+        }
+.pokemon-488 {
+            background: linear-gradient(45deg, #c9686566, #13132566);
+        }
+.pokemon-489 {
+            background: linear-gradient(45deg, #5da7b966, #0e1b1b66);
+        }
+.pokemon-490 {
+            background: linear-gradient(45deg, #62b3c466, #f2c67966);
+        }
+.pokemon-491 {
+            background: linear-gradient(45deg, #41212166, #d17a6966);
+        }
+.pokemon-492 {
+            background: linear-gradient(45deg, #b9b15d66, #39663366);
+        }
+.pokemon-493 {
+            background: linear-gradient(45deg, #b4a05a66, #2a341a66);
+        }
+.pokemon-494 {
+            background: linear-gradient(45deg, #e0a97066, #253b4966);
+        }
+.pokemon-495 {
+            background: linear-gradient(45deg, #56ac5866, #ddd36f66);
+        }
+.pokemon-496 {
+            background: linear-gradient(45deg, #9ac56366, #24482466);
+        }
+.pokemon-497 {
+            background: linear-gradient(45deg, #4f9e7266, #e8d07466);
+        }
+.pokemon-498 {
+            background: linear-gradient(45deg, #cb916666, #311d1966);
+        }
+.pokemon-499 {
+            background: linear-gradient(45deg, #b8855c66, #351b1e66);
+        }
+.pokemon-500 {
+            background: linear-gradient(45deg, #925c4966, #2d2d2d66);
+        }
+.pokemon-501 {
+            background: linear-gradient(45deg, #65caa566, #191b3266);
+        }
+.pokemon-502 {
+            background: linear-gradient(45deg, #548ea866, #dec36f66);
+        }
+.pokemon-503 {
+            background: linear-gradient(45deg, #4b6d9566, #dcc66e66);
+        }
+.pokemon-504 {
+            background: linear-gradient(45deg, #c0936066, #251d1366);
+        }
+.pokemon-505 {
+            background: linear-gradient(45deg, #864f4366, #f0d17866);
+        }
+.pokemon-506 {
+            background: linear-gradient(45deg, #d7a46c66, #2b161e66);
+        }
+.pokemon-507 {
+            background: linear-gradient(45deg, #8e504766, #21244166);
+        }
+.pokemon-508 {
+            background: linear-gradient(45deg, #b49a5a66, #1f323e66);
+        }
+.pokemon-509 {
+            background: linear-gradient(45deg, #633b7566, #eb917666);
+        }
+.pokemon-510 {
+            background: linear-gradient(45deg, #65376d66, #e6c27366);
+        }
+.pokemon-511 {
+            background: linear-gradient(45deg, #55aa6e66, #f2d47966);
+        }
+.pokemon-512 {
+            background: linear-gradient(45deg, #55a97666, #e0c77066);
+        }
+.pokemon-513 {
+            background: linear-gradient(45deg, #d5826b66, #291b1566);
+        }
+.pokemon-514 {
+            background: linear-gradient(45deg, #c5766366, #eed07766);
+        }
+.pokemon-515 {
+            background: linear-gradient(45deg, #62c38d66, #21394166);
+        }
+.pokemon-516 {
+            background: linear-gradient(45deg, #65b5ca66, #e5c97366);
+        }
+.pokemon-517 {
+            background: linear-gradient(45deg, #e6739566, #21111566);
+        }
+.pokemon-518 {
+            background: linear-gradient(45deg, #d1699766, #25162c66);
+        }
+.pokemon-519 {
+            background: linear-gradient(45deg, #bf926066, #14282866);
+        }
+.pokemon-520 {
+            background: linear-gradient(45deg, #b6655b66, #2f181866);
+        }
+.pokemon-521 {
+            background: linear-gradient(45deg, #544a2a66, #c96b6566);
+        }
+.pokemon-522 {
+            background: linear-gradient(45deg, #4f3f2866, #e4bb7266);
+        }
+.pokemon-523 {
+            background: linear-gradient(45deg, #4f352866, #778fee66);
+        }
+.pokemon-524 {
+            background: linear-gradient(45deg, #272d4d66, #bf9e6066);
+        }
+.pokemon-525 {
+            background: linear-gradient(45deg, #2a305466, #c9806566);
+        }
+.pokemon-526 {
+            background: linear-gradient(45deg, #4a264c66, #d97a6d66);
+        }
+.pokemon-527 {
+            background: linear-gradient(45deg, #6090c066, #31191966);
+        }
+.pokemon-528 {
+            background: linear-gradient(45deg, #2a3a5466, #6b8dd566);
+        }
+.pokemon-529 {
+            background: linear-gradient(45deg, #5f303666, #f19e7966);
+        }
+.pokemon-530 {
+            background: linear-gradient(45deg, #5d2f2f66, #c563c566);
+        }
+.pokemon-531 {
+            background: linear-gradient(45deg, #e6907366, #24374766);
+        }
+.pokemon-532 {
+            background: linear-gradient(45deg, #c28d6166, #3c2d1e66);
+        }
+.pokemon-533 {
+            background: linear-gradient(45deg, #be625f66, #67344066);
+        }
+.pokemon-534 {
+            background: linear-gradient(45deg, #99684d66, #1e150f66);
+        }
+.pokemon-535 {
+            background: linear-gradient(45deg, #2f505d66, #ecc87666);
+        }
+.pokemon-536 {
+            background: linear-gradient(45deg, #324e6466, #ddc56f66);
+        }
+.pokemon-537 {
+            background: linear-gradient(45deg, #3f647d66, #67cdb666);
+        }
+.pokemon-538 {
+            background: linear-gradient(45deg, #c0786066, #3a241d66);
+        }
+.pokemon-539 {
+            background: linear-gradient(45deg, #3a5c7466, #6edcd966);
+        }
+.pokemon-540 {
+            background: linear-gradient(45deg, #adae5766, #1b1d0f66);
+        }
+.pokemon-541 {
+            background: linear-gradient(45deg, #a9c06066, #35673466);
+        }
+.pokemon-542 {
+            background: linear-gradient(45deg, #a2b55b66, #29512966);
+        }
+.pokemon-543 {
+            background: linear-gradient(45deg, #b0586666, #1f3d2366);
+        }
+.pokemon-544 {
+            background: linear-gradient(45deg, #6b408066, #c2617266);
+        }
+.pokemon-545 {
+            background: linear-gradient(45deg, #87445166, #2e231766);
+        }
+.pokemon-546 {
+            background: linear-gradient(45deg, #8ed26966, #34683b66);
+        }
+.pokemon-547 {
+            background: linear-gradient(45deg, #d1c56966, #2d542a66);
+        }
+.pokemon-548 {
+            background: linear-gradient(45deg, #bfdb6e66, #43854c66);
+        }
+.pokemon-549 {
+            background: linear-gradient(45deg, #b7b75c66, #3b763d66);
+        }
+.pokemon-550 {
+            background: linear-gradient(45deg, #48905666, #e4b67266);
+        }
+.pokemon-551 {
+            background: linear-gradient(45deg, #be925f66, #26131366);
+        }
+.pokemon-552 {
+            background: linear-gradient(45deg, #a7795466, #27142766);
+        }
+.pokemon-553 {
+            background: linear-gradient(45deg, #8d475466, #22111166);
+        }
+.pokemon-554 {
+            background: linear-gradient(45deg, #bc6a5e66, #f2ca7966);
+        }
+.pokemon-555 {
+            background: linear-gradient(45deg, #af645866, #ecc57666);
+        }
+.pokemon-556 {
+            background: linear-gradient(45deg, #99ab5666, #2a535066);
+        }
+.pokemon-557 {
+            background: linear-gradient(45deg, #9d6e4f66, #1c120e66);
+        }
+.pokemon-558 {
+            background: linear-gradient(45deg, #67493466, #d49c6a66);
+        }
+.pokemon-559 {
+            background: linear-gradient(45deg, #e4bd7266, #251d1366);
+        }
+.pokemon-560 {
+            background: linear-gradient(45deg, #cb976666, #261a1366);
+        }
+.pokemon-561 {
+            background: linear-gradient(45deg, #bb955e66, #152a1c66);
+        }
+.pokemon-562 {
+            background: linear-gradient(45deg, #45342366, #e3a77266);
+        }
+.pokemon-563 {
+            background: linear-gradient(45deg, #2c575166, #e3b87266);
+        }
+.pokemon-564 {
+            background: linear-gradient(45deg, #49679166, #f5f5f566);
+        }
+.pokemon-565 {
+            background: linear-gradient(45deg, #50749f66, #11112166);
+        }
+.pokemon-566 {
+            background: linear-gradient(45deg, #db9a6e66, #49769166);
+        }
+.pokemon-567 {
+            background: linear-gradient(45deg, #48788f66, #dea86f66);
+        }
+.pokemon-568 {
+            background: linear-gradient(45deg, #3d743a66, #e8747466);
+        }
+.pokemon-569 {
+            background: linear-gradient(45deg, #87764466, #1d393566);
+        }
+.pokemon-570 {
+            background: linear-gradient(45deg, #592d4e66, #ce6c6766);
+        }
+.pokemon-571 {
+            background: linear-gradient(45deg, #5c2e3b66, #a7545c66);
+        }
+.pokemon-572 {
+            background: linear-gradient(45deg, #d67e6b66, #26161366);
+        }
+.pokemon-573 {
+            background: linear-gradient(45deg, #a46edb66, #29151f66);
+        }
+.pokemon-574 {
+            background: linear-gradient(45deg, #ce6bd566, #1b353566);
+        }
+.pokemon-575 {
+            background: linear-gradient(45deg, #191e3266, #dd6fc766);
+        }
+.pokemon-576 {
+            background: linear-gradient(45deg, #36291b66, #df70af66);
+        }
+.pokemon-577 {
+            background: linear-gradient(45deg, #8bd46a66, #376e6466);
+        }
+.pokemon-578 {
+            background: linear-gradient(45deg, #68ca6566, #33665366);
+        }
+.pokemon-579 {
+            background: linear-gradient(45deg, #61c16f66, #e1d07166);
+        }
+.pokemon-580 {
+            background: linear-gradient(45deg, #63c6aa66, #11211e66);
+        }
+.pokemon-581 {
+            background: linear-gradient(45deg, #74e8c766, #27364d66);
+        }
+.pokemon-582 {
+            background: linear-gradient(45deg, #76a5eb66, #20283f66);
+        }
+.pokemon-583 {
+            background: linear-gradient(45deg, #74b7e866, #39507266);
+        }
+.pokemon-584 {
+            background: linear-gradient(45deg, #74b4e866, #344b6866);
+        }
+.pokemon-585 {
+            background: linear-gradient(45deg, #e0a37066, #22181166);
+        }
+.pokemon-586 {
+            background: linear-gradient(45deg, #684b3466, #e8bd7466);
+        }
+.pokemon-587 {
+            background: linear-gradient(45deg, #ecd57666, #3e1f1f66);
+        }
+.pokemon-588 {
+            background: linear-gradient(45deg, #42668466, #e4c47266);
+        }
+.pokemon-589 {
+            background: linear-gradient(45deg, #a7565466, #161b2b66);
+        }
+.pokemon-590 {
+            background: linear-gradient(45deg, #eeb37766, #45302366);
+        }
+.pokemon-591 {
+            background: linear-gradient(45deg, #9f5a5066, #251c1366);
+        }
+.pokemon-592 {
+            background: linear-gradient(45deg, #6f92de66, #4b7d9666);
+        }
+.pokemon-593 {
+            background: linear-gradient(45deg, #748ce766, #5b90b666);
+        }
+.pokemon-594 {
+            background: linear-gradient(45deg, #c8647b66, #1b0f1e66);
+        }
+.pokemon-595 {
+            background: linear-gradient(45deg, #dbc66e66, #29345166);
+        }
+.pokemon-596 {
+            background: linear-gradient(45deg, #c6a86366, #1a182f66);
+        }
+.pokemon-597 {
+            background: linear-gradient(45deg, #56ab5666, #20402f66);
+        }
+.pokemon-598 {
+            background: linear-gradient(45deg, #4a946966, #d39e6a66);
+        }
+.pokemon-599 {
+            background: linear-gradient(45deg, #5773ad66, #1e393b66);
+        }
+.pokemon-600 {
+            background: linear-gradient(45deg, #5a78b466, #22434466);
+        }
+.pokemon-601 {
+            background: linear-gradient(45deg, #5672ab66, #223c4466);
+        }
+.pokemon-602 {
+            background: linear-gradient(45deg, #72bee466, #2a425366);
+        }
+.pokemon-603 {
+            background: linear-gradient(45deg, #c4926266, #32466366);
+        }
+.pokemon-604 {
+            background: linear-gradient(45deg, #394b7166, #dcbe6e66);
+        }
+.pokemon-605 {
+            background: linear-gradient(45deg, #62c4b866, #12241966);
+        }
+.pokemon-606 {
+            background: linear-gradient(45deg, #b16e5966, #182f1f66);
+        }
+.pokemon-607 {
+            background: linear-gradient(45deg, #6d83d966, #0c0c1866);
+        }
+.pokemon-608 {
+            background: linear-gradient(45deg, #23284666, #6e9ddb66);
+        }
+.pokemon-609 {
+            background: linear-gradient(45deg, #231b3566, #6c9bd766);
+        }
+.pokemon-610 {
+            background: linear-gradient(45deg, #536e3766, #dbb66e66);
+        }
+.pokemon-611 {
+            background: linear-gradient(45deg, #57743a66, #be635f66);
+        }
+.pokemon-612 {
+            background: linear-gradient(45deg, #82784166, #24181266);
+        }
+.pokemon-613 {
+            background: linear-gradient(45deg, #77bbee66, #181e3066);
+        }
+.pokemon-614 {
+            background: linear-gradient(45deg, #76c9eb66, #23344566);
+        }
+.pokemon-615 {
+            background: linear-gradient(45deg, #5e83bb66, #79a4f166);
+        }
+.pokemon-616 {
+            background: linear-gradient(45deg, #c9796566, #29182f66);
+        }
+.pokemon-617 {
+            background: linear-gradient(45deg, #413d7a66, #e9758666);
+        }
+.pokemon-618 {
+            background: linear-gradient(45deg, #d09c6866, #3a2a1d66);
+        }
+.pokemon-619 {
+            background: linear-gradient(45deg, #d3976a66, #1c100e66);
+        }
+.pokemon-620 {
+            background: linear-gradient(45deg, #ca65ac66, #22152966);
+        }
+.pokemon-621 {
+            background: linear-gradient(45deg, #36606c66, #bd5f6666);
+        }
+.pokemon-622 {
+            background: linear-gradient(45deg, #468b8766, #e5c17366);
+        }
+.pokemon-623 {
+            background: linear-gradient(45deg, #468b8566, #d0a86866);
+        }
+.pokemon-624 {
+            background: linear-gradient(45deg, #84424466, #74a6e866);
+        }
+.pokemon-625 {
+            background: linear-gradient(45deg, #84454266, #6fb8dd66);
+        }
+.pokemon-626 {
+            background: linear-gradient(45deg, #71563966, #e4c77266);
+        }
+.pokemon-627 {
+            background: linear-gradient(45deg, #cfa46866, #251f3e66);
+        }
+.pokemon-628 {
+            background: linear-gradient(45deg, #5d2f3f66, #e0b27066);
+        }
+.pokemon-629 {
+            background: linear-gradient(45deg, #60403066, #e3947266);
+        }
+.pokemon-630 {
+            background: linear-gradient(45deg, #88544466, #29152466);
+        }
+.pokemon-631 {
+            background: linear-gradient(45deg, #9a624d66, #261b1366);
+        }
+.pokemon-632 {
+            background: linear-gradient(45deg, #462f5e66, #6060c066);
+        }
+.pokemon-633 {
+            background: linear-gradient(45deg, #63325966, #5c86b866);
+        }
+.pokemon-634 {
+            background: linear-gradient(45deg, #3d2e5c66, #d76cd766);
+        }
+.pokemon-635 {
+            background: linear-gradient(45deg, #5d2f5d66, #5d86b966);
+        }
+.pokemon-636 {
+            background: linear-gradient(45deg, #c6776366, #1a303366);
+        }
+.pokemon-637 {
+            background: linear-gradient(45deg, #cf7d6866, #1e3c3c66);
+        }
+.pokemon-638 {
+            background: linear-gradient(45deg, #4e909c66, #cea76766);
+        }
+.pokemon-639 {
+            background: linear-gradient(45deg, #916d4966, #26132066);
+        }
+.pokemon-640 {
+            background: linear-gradient(45deg, #a1c06066, #222c1666);
+        }
+.pokemon-641 {
+            background: linear-gradient(45deg, #9d4f7e66, #19311f66);
+        }
+.pokemon-642 {
+            background: linear-gradient(45deg, #5577a966, #181f2f66);
+        }
+.pokemon-643 {
+            background: linear-gradient(45deg, #73a4e566, #1b223566);
+        }
+.pokemon-644 {
+            background: linear-gradient(45deg, #1e333b66, #5a9fb366);
+        }
+.pokemon-645 {
+            background: linear-gradient(45deg, #96614b66, #7893f066);
+        }
+.pokemon-646 {
+            background: linear-gradient(45deg, #518ca266, #16212c66);
+        }
+.pokemon-647 {
+            background: linear-gradient(45deg, #78cc6666, #2f3c5d66);
+        }
+.pokemon-648 {
+            background: linear-gradient(45deg, #add06866, #162c1666);
+        }
+.pokemon-649 {
+            background: linear-gradient(45deg, #6e3e7b66, #d56b9c66);
+        }
+.pokemon-650 {
+            background: linear-gradient(45deg, #bba85e66, #221a1166);
+        }
+.pokemon-651 {
+            background: linear-gradient(45deg, #5d4b2f66, #d9ae6d66);
+        }
+.pokemon-652 {
+            background: linear-gradient(45deg, #bcd06866, #33331a66);
+        }
+.pokemon-653 {
+            background: linear-gradient(45deg, #ebc27666, #de866f66);
+        }
+.pokemon-654 {
+            background: linear-gradient(45deg, #e2c77166, #41312166);
+        }
+.pokemon-655 {
+            background: linear-gradient(45deg, #b4715a66, #f0dd7866);
+        }
+.pokemon-656 {
+            background: linear-gradient(45deg, #66b1cb66, #e3d97266);
+        }
+.pokemon-657 {
+            background: linear-gradient(45deg, #446c8866, #e1d57166);
+        }
+.pokemon-658 {
+            background: linear-gradient(45deg, #3d437966, #eb8b7666);
+        }
+.pokemon-659 {
+            background: linear-gradient(45deg, #966e4b66, #1e140f66);
+        }
+.pokemon-660 {
+            background: linear-gradient(45deg, #a4845266, #22181166);
+        }
+.pokemon-661 {
+            background: linear-gradient(45deg, #c97d6566, #2c211666);
+        }
+.pokemon-662 {
+            background: linear-gradient(45deg, #c7896466, #2b161666);
+        }
+.pokemon-663 {
+            background: linear-gradient(45deg, #9c674e66, #17232e66);
+        }
+.pokemon-664 {
+            background: linear-gradient(45deg, #62453166, #d4a76a66);
+        }
+.pokemon-665 {
+            background: linear-gradient(45deg, #c5636366, #2c1d1666);
+        }
+.pokemon-666 {
+            background: linear-gradient(45deg, #c6638866, #1d3a3a66);
+        }
+.pokemon-667 {
+            background: linear-gradient(45deg, #533b2a66, #dda66f66);
+        }
+.pokemon-668 {
+            background: linear-gradient(45deg, #c3926266, #3a261d66);
+        }
+.pokemon-669 {
+            background: linear-gradient(45deg, #e0937066, #40542a66);
+        }
+.pokemon-670 {
+            background: linear-gradient(45deg, #9a574d66, #beec7666);
+        }
+.pokemon-671 {
+            background: linear-gradient(45deg, #48908066, #e6737f66);
+        }
+.pokemon-672 {
+            background: linear-gradient(45deg, #32634266, #e8837466);
+        }
+.pokemon-673 {
+            background: linear-gradient(45deg, #3e6e3766, #d6976b66);
+        }
+.pokemon-674 {
+            background: linear-gradient(45deg, #322c5866, #f3db7a66);
+        }
+.pokemon-675 {
+            background: linear-gradient(45deg, #32326466, #d8cb6c66);
+        }
+.pokemon-676 {
+            background: linear-gradient(45deg, #addc6e66, #3b3b1e66);
+        }
+.pokemon-677 {
+            background: linear-gradient(45deg, #5c57ad66, #0e091266);
+        }
+.pokemon-678 {
+            background: linear-gradient(45deg, #44598866, #7af4f466);
+        }
+.pokemon-679 {
+            background: linear-gradient(45deg, #35596966, #72c2e366);
+        }
+.pokemon-680 {
+            background: linear-gradient(45deg, #b2597a66, #24121666);
+        }
+.pokemon-681 {
+            background: linear-gradient(45deg, #bb995e66, #3f202066);
+        }
+.pokemon-682 {
+            background: linear-gradient(45deg, #d46a8466, #2a152366);
+        }
+.pokemon-683 {
+            background: linear-gradient(45deg, #c3628e66, #26131e66);
+        }
+.pokemon-684 {
+            background: linear-gradient(45deg, #f179b566, #1a0d0d66);
+        }
+.pokemon-685 {
+            background: linear-gradient(45deg, #e1719c66, #1d0f1366);
+        }
+.pokemon-686 {
+            background: linear-gradient(45deg, #d46a9466, #37526e66);
+        }
+.pokemon-687 {
+            background: linear-gradient(45deg, #8a57ae66, #22394466);
+        }
+.pokemon-688 {
+            background: linear-gradient(45deg, #ad865766, #10102066);
+        }
+.pokemon-689 {
+            background: linear-gradient(45deg, #613c3166, #e1a47166);
+        }
+.pokemon-690 {
+            background: linear-gradient(45deg, #734b3a66, #6b86d666);
+        }
+.pokemon-691 {
+            background: linear-gradient(45deg, #89524566, #1c150e66);
+        }
+.pokemon-692 {
+            background: linear-gradient(45deg, #67b7cd66, #0e181b66);
+        }
+.pokemon-693 {
+            background: linear-gradient(45deg, #46708c66, #d7bb6c66);
+        }
+.pokemon-694 {
+            background: linear-gradient(45deg, #e0cd7066, #24384766);
+        }
+.pokemon-695 {
+            background: linear-gradient(45deg, #caad6566, #40203066);
+        }
+.pokemon-696 {
+            background: linear-gradient(45deg, #86584366, #70e0e066);
+        }
+.pokemon-697 {
+            background: linear-gradient(45deg, #9f5a5066, #e1a97166);
+        }
+.pokemon-698 {
+            background: linear-gradient(45deg, #6ab9d466, #1f2b3d66);
+        }
+.pokemon-699 {
+            background: linear-gradient(45deg, #66a5cb66, #29355166);
+        }
+.pokemon-700 {
+            background: linear-gradient(45deg, #e8749b66, #2e3d5c66);
+        }
+.pokemon-701 {
+            background: linear-gradient(45deg, #a6a25366, #1d3a3366);
+        }
+.pokemon-702 {
+            background: linear-gradient(45deg, #d7b36c66, #30201866);
+        }
+.pokemon-703 {
+            background: linear-gradient(45deg, #6078c066, #15202966);
+        }
+.pokemon-704 {
+            background: linear-gradient(45deg, #b662c366, #21351b66);
+        }
+.pokemon-705 {
+            background: linear-gradient(45deg, #ac63c666, #140a0f66);
+        }
+.pokemon-706 {
+            background: linear-gradient(45deg, #b167ce66, #1c372466);
+        }
+.pokemon-707 {
+            background: linear-gradient(45deg, #c78e6466, #341a3466);
+        }
+.pokemon-708 {
+            background: linear-gradient(45deg, #5e4e2f66, #db776e66);
+        }
+.pokemon-709 {
+            background: linear-gradient(45deg, #537a3d66, #bb8f5e66);
+        }
+.pokemon-710 {
+            background: linear-gradient(45deg, #644d3266, #dfa07066);
+        }
+.pokemon-711 {
+            background: linear-gradient(45deg, #b5845b66, #2d231766);
+        }
+.pokemon-712 {
+            background: linear-gradient(45deg, #75b5e966, #40567f66);
+        }
+.pokemon-713 {
+            background: linear-gradient(45deg, #77b2ed66, #5f59b266);
+        }
+.pokemon-714 {
+            background: linear-gradient(45deg, #864d9966, #190d1966);
+        }
+.pokemon-715 {
+            background: linear-gradient(45deg, #58316266, #d0906866);
+        }
+.pokemon-716 {
+            background: linear-gradient(45deg, #2f415d66, #e3be7266);
+        }
+.pokemon-717 {
+            background: linear-gradient(45deg, #3b203f66, #e57e7366);
+        }
+.pokemon-718 {
+            background: linear-gradient(45deg, #4c3f2666, #bbd46a66);
+        }
+.pokemon-719 {
+            background: linear-gradient(45deg, #d46abf66, #2d224366);
+        }
+.pokemon-720 {
+            background: linear-gradient(45deg, #b1875966, #1b0e0e66);
+        }
+.pokemon-721 {
+            background: linear-gradient(45deg, #773c3c66, #edc37766);
+        }
+.pokemon-722 {
+            background: linear-gradient(45deg, #e29f7166, #305f5266);
+        }
+.pokemon-723 {
+            background: linear-gradient(45deg, #c3d66b66, #262c1666);
+        }
+.pokemon-724 {
+            background: linear-gradient(45deg, #aa775566, #3e7b6a66);
+        }
+.pokemon-725 {
+            background: linear-gradient(45deg, #242a4766, #e3977266);
+        }
+.pokemon-726 {
+            background: linear-gradient(45deg, #a2675166, #1f101066);
+        }
+.pokemon-727 {
+            background: linear-gradient(45deg, #a1575166, #1f1f1066);
+        }
+.pokemon-728 {
+            background: linear-gradient(45deg, #455c8a66, #9b6cd866);
+        }
+.pokemon-729 {
+            background: linear-gradient(45deg, #73c0e666, #5a92b366);
+        }
+.pokemon-730 {
+            background: linear-gradient(45deg, #6aadd366, #4a799466);
+        }
+.pokemon-731 {
+            background: linear-gradient(45deg, #d17d6966, #1a341a66);
+        }
+.pokemon-732 {
+            background: linear-gradient(45deg, #443a2266, #eaa27566);
+        }
+.pokemon-733 {
+            background: linear-gradient(45deg, #3b2b1e66, #e4ac7266);
+        }
+.pokemon-734 {
+            background: linear-gradient(45deg, #c08c6066, #24181266);
+        }
+.pokemon-735 {
+            background: linear-gradient(45deg, #916d4966, #dccc6e66);
+        }
+.pokemon-736 {
+            background: linear-gradient(45deg, #dca56e66, #2c201666);
+        }
+.pokemon-737 {
+            background: linear-gradient(45deg, #528d4766, #dbab6e66);
+        }
+.pokemon-738 {
+            background: linear-gradient(45deg, #34536766, #ead67566);
+        }
+.pokemon-739 {
+            background: linear-gradient(45deg, #46738c66, #c8c46466);
+        }
+.pokemon-740 {
+            background: linear-gradient(45deg, #70d2df66, #354e6a66);
+        }
+.pokemon-741 {
+            background: linear-gradient(45deg, #c8646966, #2c1e1666);
+        }
+.pokemon-742 {
+            background: linear-gradient(45deg, #edd27766, #2b1b1666);
+        }
+.pokemon-743 {
+            background: linear-gradient(45deg, #edce7766, #34261a66);
+        }
+.pokemon-744 {
+            background: linear-gradient(45deg, #b87e5c66, #1f161066);
+        }
+.pokemon-745 {
+            background: linear-gradient(45deg, #d5956b66, #3e2b1f66);
+        }
+.pokemon-746 {
+            background: linear-gradient(45deg, #6dd9d966, #42608466);
+        }
+.pokemon-747 {
+            background: linear-gradient(45deg, #63acc666, #15262966);
+        }
+.pokemon-748 {
+            background: linear-gradient(45deg, #506ca066, #df917066);
+        }
+.pokemon-749 {
+            background: linear-gradient(45deg, #8f5c4866, #ec9c7666);
+        }
+.pokemon-750 {
+            background: linear-gradient(45deg, #5c362e66, #e07e7066);
+        }
+.pokemon-751 {
+            background: linear-gradient(45deg, #478d6866, #bae67366);
+        }
+.pokemon-752 {
+            background: linear-gradient(45deg, #68cfa666, #2e505b66);
+        }
+.pokemon-753 {
+            background: linear-gradient(45deg, #57ad8466, #ed778566);
+        }
+.pokemon-754 {
+            background: linear-gradient(45deg, #da6d7666, #2b261666);
+        }
+.pokemon-755 {
+            background: linear-gradient(45deg, #de6fad66, #23121766);
+        }
+.pokemon-756 {
+            background: linear-gradient(45deg, #de6f7466, #27211466);
+        }
+.pokemon-757 {
+            background: linear-gradient(45deg, #48242466, #c9776566);
+        }
+.pokemon-758 {
+            background: linear-gradient(45deg, #5a2d4d66, #de6f9366);
+        }
+.pokemon-759 {
+            background: linear-gradient(45deg, #e7748d66, #402d2066);
+        }
+.pokemon-760 {
+            background: linear-gradient(45deg, #39241d66, #e8748e66);
+        }
+.pokemon-761 {
+            background: linear-gradient(45deg, #acba5d66, #bd5f8166);
+        }
+.pokemon-762 {
+            background: linear-gradient(45deg, #9ecc6666, #92496966);
+        }
+.pokemon-763 {
+            background: linear-gradient(45deg, #9cbb5e66, #9f507166);
+        }
+.pokemon-764 {
+            background: linear-gradient(45deg, #d5ab6b66, #b0586166);
+        }
+.pokemon-765 {
+            background: linear-gradient(45deg, #aa805566, #130a0a66);
+        }
+.pokemon-766 {
+            background: linear-gradient(45deg, #44572c66, #eaf37a66);
+        }
+.pokemon-767 {
+            background: linear-gradient(45deg, #a754a766, #100a1366);
+        }
+.pokemon-768 {
+            background: linear-gradient(45deg, #62c36f66, #18302466);
+        }
+.pokemon-769 {
+            background: linear-gradient(45deg, #cfac6866, #45352366);
+        }
+.pokemon-770 {
+            background: linear-gradient(45deg, #dfa37066, #583b2c66);
+        }
+.pokemon-771 {
+            background: linear-gradient(45deg, #4e272b66, #da6d9666);
+        }
+.pokemon-772 {
+            background: linear-gradient(45deg, #44332266, #93939366);
+        }
+.pokemon-773 {
+            background: linear-gradient(45deg, #73ace566, #20394066);
+        }
+.pokemon-774 {
+            background: linear-gradient(45deg, #753f3b66, #ce6b6766);
+        }
+.pokemon-775 {
+            background: linear-gradient(45deg, #5bb5a866, #15291566);
+        }
+.pokemon-776 {
+            background: linear-gradient(45deg, #9f565066, #ecda7666);
+        }
+.pokemon-777 {
+            background: linear-gradient(45deg, #e5c87366, #24191266);
+        }
+.pokemon-778 {
+            background: linear-gradient(45deg, #b1965966, #1a140d66);
+        }
+.pokemon-779 {
+            background: linear-gradient(45deg, #a8548366, #8add6f66);
+        }
+.pokemon-780 {
+            background: linear-gradient(45deg, #68cf6e66, #1e3b3666);
+        }
+.pokemon-781 {
+            background: linear-gradient(45deg, #2c535766, #dac56d66);
+        }
+.pokemon-782 {
+            background: linear-gradient(45deg, #dbc86e66, #3f202066);
+        }
+.pokemon-783 {
+            background: linear-gradient(45deg, #b5a05b66, #231a1266);
+        }
+.pokemon-784 {
+            background: linear-gradient(45deg, #ab965666, #291d1566);
+        }
+.pokemon-785 {
+            background: linear-gradient(45deg, #96764b66, #1e221166);
+        }
+.pokemon-786 {
+            background: linear-gradient(45deg, #ba5d7266, #30241866);
+        }
+.pokemon-787 {
+            background: linear-gradient(45deg, #91544966, #1f231266);
+        }
+.pokemon-788 {
+            background: linear-gradient(45deg, #43366b66, #71a0e266);
+        }
+.pokemon-789 {
+            background: linear-gradient(45deg, #45618a66, #e1b27166);
+        }
+.pokemon-790 {
+            background: linear-gradient(45deg, #b19a5966, #262b4b66);
+        }
+.pokemon-791 {
+            background: linear-gradient(45deg, #f3db7a66, #20393f66);
+        }
+.pokemon-792 {
+            background: linear-gradient(45deg, #3e336666, #d7d76c66);
+        }
+.pokemon-793 {
+            background: linear-gradient(45deg, #71bfe266, #5986b266);
+        }
+.pokemon-794 {
+            background: linear-gradient(45deg, #44262266, #eb827666);
+        }
+.pokemon-795 {
+            background: linear-gradient(45deg, #f4c37a66, #b7925c66);
+        }
+.pokemon-796 {
+            background: linear-gradient(45deg, #3b371e66, #d3df7066);
+        }
+.pokemon-797 {
+            background: linear-gradient(45deg, #49917e66, #a6db6e66);
+        }
+.pokemon-798 {
+            background: linear-gradient(45deg, #e2c37166, #3c2c1e66);
+        }
+.pokemon-799 {
+            background: linear-gradient(45deg, #22344466, #ebd27666);
+        }
+.pokemon-800 {
+            background: linear-gradient(45deg, #361b1b66, #c8ad6466);
+        }
+.pokemon-801 {
+            background: linear-gradient(45deg, #c38f6266, #231d1266);
+        }
+.pokemon-802 {
+            background: linear-gradient(45deg, #323f6466, #c88f6466);
+        }
+.pokemon-803 {
+            background: linear-gradient(45deg, #5c438566, #cc66a866);
+        }
+.pokemon-804 {
+            background: linear-gradient(45deg, #5a448866, #d96db666);
+        }
+.pokemon-805 {
+            background: linear-gradient(45deg, #47592d66, #6ebbdb66);
+        }
+.pokemon-806 {
+            background: linear-gradient(45deg, #e8d77466, #3b657566);
+        }
+.pokemon-807 {
+            background: linear-gradient(45deg, #c0b26066, #28141466);
+        }
+.pokemon-808 {
+            background: linear-gradient(45deg, #daba6d66, #37281c66);
+        }
+.pokemon-809 {
+            background: linear-gradient(45deg, #9f845066, #2c161666);
+        }

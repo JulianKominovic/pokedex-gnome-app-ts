@@ -17,7 +17,7 @@ declare module console {
     export function info(msg: string, subsitutions?: any[]): void;
     export function debug(obj: object, others?: object[]): void;
     export function debug(msg: string, subsitutions?: any[]): void;
-    export function log(obj: object, others?: object[]): void;
+    export function log(obj: any, others?: object[]): void;
     export function log(msg: string, subsitutions?: any[]): void;
 }
 

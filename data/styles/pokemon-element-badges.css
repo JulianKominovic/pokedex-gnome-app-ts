@@ -1,0 +1,116 @@
+.type {
+    border-radius: 20px;
+    padding: 4px 8px;
+    color: #000;
+    border-width: 1px;
+    border-style: solid;
+}
+
+/*https://bulbapedia.bulbagarden.net/wiki/Category:Type_color_templates*/
+.type.normal {
+    background-color: #a8a87833;
+    border-color: #a8a878;
+    color: #6d6d4e;
+}
+
+.type.fire {
+    background-color: #f0803033;
+    border-color: #f08030;
+    color: #9c531f;
+}
+
+.type.water {
+    background-color: #6890f033;
+    border-color: #6890f0;
+    color: #445e9c;
+}
+
+.type.electric {
+    background-color: #f8d03033;
+    border-color: #f8d030;
+    color: #a1871f;
+}
+
+.type.grass {
+    background-color: #78c85033;
+    border-color: #78c850;
+    color: #4e8234;
+}
+
+.type.ice {
+    background-color: #98d8d833;
+    border-color: #98d8d8;
+    color: #638d8d;
+}
+
+.type.fighting {
+    background-color: #c0302833;
+    border-color: #c03028;
+    color: #7d1f1a;
+}
+
+.type.poison {
+    background-color: #a040a033;
+    border-color: #a040a0;
+    color: #682a68;
+}
+
+.type.ground {
+    background-color: #e0c06833;
+    border-color: #e0c068;
+    color: #927d44;
+}
+
+.type.flying {
+    background-color: #a890f033;
+    border-color: #a890f0;
+    color: #6d5e9c;
+}
+
+.type.psychic {
+    background-color: #f8588833;
+    border-color: #f85888;
+    color: #a13959;
+}
+
+.type.bug {
+    background-color: #a8b82033;
+    border-color: #a8b820;
+    color: #6d7815;
+}
+
+.type.rock {
+    background-color: #b8a03833;
+    border-color: #b8a038;
+    color: #786824;
+}
+
+.type.ghost {
+    background-color: #70589833;
+    border-color: #705898;
+    color: #493963;
+}
+
+.type.dragon {
+    background-color: #7038f833;
+    border-color: #7038f8;
+    color: #4924a1;
+}
+
+.type.dark {
+    background-color: #70584833;
+    border-color: #705848;
+    color: #49392f;
+}
+
+.type.steel {
+    background-color: #b8b8d033;
+    border-color: #b8b8d0;
+    color: #787887;
+}
+
+.type.fairy {
+    background-color: #ee99ac33;
+    border-color: #ee99ac;
+    color: #9b6470;
+}

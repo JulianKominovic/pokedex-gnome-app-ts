@@ -3,6 +3,9 @@
   <gresource prefix="/com/jkominovic/pokedex">
     <file preprocess="xml-stripblanks">window.ui</file>
     <file preprocess="xml-stripblanks">gtk/help-overlay.ui</file>
+    <file>style.css</file>
+    <file>styles/pokemon-gradients.css</file>
+    <file>styles/pokemon-element-badges.css</file>
     <file>icons/hires/001.png</file>
     <file>icons/hires/002.png</file>
     <file>icons/hires/003.png</file>
